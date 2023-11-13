@@ -1,0 +1,12 @@
+table,td,tr,th{
+  border: 1px solid black;
+}
+body{
+  background-color: gray;
+}
+h1,h2{
+  color: wheat;
+}
+a:hover {
+  background-color: pink;
+}
